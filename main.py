@@ -67,17 +67,3 @@ class List:
                     print('Wrong index')
         else:
             print('List is empty')
-
-    # def get_length(self) -> int:
-    #     return self._length
-
-
-# if __name__ == '__main__':
-#     l = List()
-#     l.add(1)
-#     l.add(2)
-#     l.add(3)
-#     print(l.get(3))
-#     print(l.get(2))
-#     l.delete(2)
-#     print(l.get(2))
